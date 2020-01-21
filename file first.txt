@@ -2,11 +2,13 @@
 Hello world !!!!
 Welcome To Git 
 
-Change for feature -login
+Change for feature ->>login
 
-change for output -- Logout
+change for output ->>- Logout
 =======
 Hello world !!!!
 >>>>>>> parent of 1e2cc35... 2nd time commit
 
 change of bug1 
+
+change to fix bug2
