@@ -3,3 +3,7 @@ change reques 1-
 for updating adding itme to kart
 
 from gui
+
+
+from web site change are 
+remoteserver 
