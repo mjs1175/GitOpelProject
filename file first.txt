@@ -8,3 +8,5 @@ change for output -- Logout
 =======
 Hello world !!!!
 >>>>>>> parent of 1e2cc35... 2nd time commit
+
+change of bug1 
