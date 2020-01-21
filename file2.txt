@@ -1,9 +1,9 @@
-change reques 1-
+1.change reques 1-
 
-for updating adding itme to kart
+2.for updating adding itme to kart
 
-from gui
+3.from gui
 
+4. from local master here we make some change from here pc
 
 from web site change are 
-remoteserver 
